@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://xfl.jp/XObzVZ
+  RECOVERY_URL: 'https://xfl.jp/XObzVZ'
 
 jobs:
   build:
