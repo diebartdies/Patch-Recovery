@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://s3.sa-east-1.amazonaws.com/blob-sa-east-1-chronu/sara/20/209f/209ff513-73eb-42b3-b15f-b24fd778ca57.bin?response-content-disposition=attachment%3B%20filename%3D%22recovery.img.lz4%22&response-content-type=&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4DM2EY46SOWUMUP4%2F20230521%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T033353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=69262535bb77b471e5ed2700f2c12076f584a654ee72f37d08c96164286e59f0
+  RECOVERY_URL: https://s3.sa-east-1.amazonaws.com/blob-sa-east-1-chronu/sara/71/7143/7143c3a6-0b57-4769-b43f-2a2649d05572.bin?response-content-disposition=attachment%3B%20filename%3D%22recovery.img%22&response-content-type=&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4DM2EY46SOWUMUP4%2F20230522%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230522T222046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=21ee392287111ca251d543bbd00f0cddaa3155dc903824bd90a05e4a98d56c27
 
 jobs:
   build:
