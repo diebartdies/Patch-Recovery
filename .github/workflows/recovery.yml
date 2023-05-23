@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://s3.sa-east-1.amazonaws.com/blob-sa-east-1-chronu/sara/09/09d6/09d6dc87-1a84-4ac3-b112-83b04f4fad1b.bin?response-content-disposition=attachment%3B%20filename%3D%22recovery.img%22&response-content-type=&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4DM2EY46SOWUMUP4%2F20230523%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230523T040219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=2e16cd7b02925c1b96e939f4e9de29f9e05cce9ba4fa728a13529a83a232d6c3
+  RECOVERY_URL: https://drive.google.com/u/0/uc?id=115ZasaDduSDgr9K0qslwVmiUMC4tDMTW&export=download
 
 jobs:
   build:
