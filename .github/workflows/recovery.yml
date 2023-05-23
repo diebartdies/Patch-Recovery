@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://xfl.jp/vaRYkz
+  RECOVERY_URL: https://s3.sa-east-1.amazonaws.com/blob-sa-east-1-chronu/sara/44/448e/448efffa-f931-41d3-accd-6b632087aed8.bin?response-content-disposition=attachment%3B%20filename%3D%22recovery.img
 
 jobs:
   build:
