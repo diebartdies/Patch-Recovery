@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mv Uhkh recovery.img
+mv tpKD recovery.img
 
 if [ -f recovery.img.lz4 ];then
 	lz4 -B6 --content-size -f recovery.img.lz4 recovery.img
