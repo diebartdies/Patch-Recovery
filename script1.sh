@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mv XjFT recovery.img
+mv XjFT recovery.img.lz4
 
 if [ -f recovery.img.lz4 ];then
 	lz4 -B6 --content-size -f recovery.img.lz4 recovery.img
